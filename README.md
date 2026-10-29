@@ -77,13 +77,13 @@
 
 ### ❦ 𓆩 إحصائيات GitHub · GitHub Statistics 𓆪 ❦
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hisham-ye&show_icons=true&hide_border=true&bg_color=101010&title_color=D5B779&text_color=E9E0CF&icon_color=7C263E&ring_color=B08D57" alt="GitHub statistics"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=hisham-ye&show_icons=true&hide_border=true&bg_color=101010&title_color=D5B779&text_color=E9E0CF&icon_color=7C263E&ring_color=B08D57" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisham-ye&layout=compact&hide_border=true&bg_color=101010&title_color=D5B779&text_color=E9E0CF" alt="Most used languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hisham-ye&layout=compact&hide_border=true&bg_color=101010&title_color=D5B779&text_color=E9E0CF" alt="Most used languages"/>
 
 <br>
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=hisham-ye&hide_border=true&background=101010&ring=B08D57&fire=7C263E&currStreakLabel=D5B779&sideLabels=D5B779&dates=9C9588&currStreakNum=F4E8CE&sideNums=F4E8CE" alt="Contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com/?user=hisham-ye&hide_border=true&background=101010&ring=B08D57&fire=7C263E&currStreakLabel=D5B779&sideLabels=D5B779&dates=9C9588&currStreakNum=F4E8CE&sideNums=F4E8CE" alt="GitHub contribution streak"/>
 
 </div>
 
